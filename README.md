@@ -29,11 +29,15 @@ A production-ready RAG chatbot that can chat with any document, URL, YouTube vid
 ---
 
 ## Project Structure
-documind/
-├── rag.py           # RAG logic
-├── rag.ipynb        # Development notebook
-├── main.py          # FastAPI server
-├── requirements.txt # Dependencies
+  documind
+├── rag.py  
+                     # RAG logic
+├── rag.ipynb         # Development notebook
+                       
+├── main.py              # FastAPI server
+                        
+├── requirements.txt      # Dependencies
+                           
 └── .env             # API keys (not in repo)
 
 ---
