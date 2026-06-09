@@ -1,0 +1,16 @@
+langchain
+langchain-community
+langchain-mistralai
+langchain-pinecone
+langchain-text-splitters
+langchain-core
+pinecone-client
+streamlit
+pypdf
+youtube-transcript-api
+python-dotenv
+ipykernel
+rank-bm25
+fastapi
+uvicorn
+python-multipart
