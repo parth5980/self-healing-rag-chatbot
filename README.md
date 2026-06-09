@@ -60,11 +60,6 @@ PINECONE_API_KEY=your_key
 python main.py
 ```
 
-5. Open API docs
-http://localhost:8000/docs
-
----
-
 ## API Endpoints
 
 | Method | Endpoint | Description |
